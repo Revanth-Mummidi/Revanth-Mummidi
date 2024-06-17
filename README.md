@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Revanth-Mummidi
 - 👀 I’m interested in full stack web development , android development and competitive programming
-- 🌱 I’m currently learning Computer Science Engineering Btech in Vignan's Institute of Information Technology.
+- 🌱 I’m currently doing Btech in Computer Science Engineering from Vignan's Institute of Information Technology.
 - 💞️ I’m looking to collaborate on MERN stack projects or React Native Applications
 - 😄 Pronouns: He/Him
 
